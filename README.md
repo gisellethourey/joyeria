@@ -1,7 +1,7 @@
 En el siguiente proyecto será creada una Api Rest, que va a permitir:
 
-Límite de recursos
-Filtro de recursos por campos
-Paginación
-Ordenamiento
-Estructura de datos HATEOAS
+1-Límite de recursos
+2-Filtro de recursos por campos
+3-Paginación
+4-Ordenamiento
+5-Estructura de datos HATEOAS
